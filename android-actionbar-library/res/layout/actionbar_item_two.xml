@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/actionbar_item_two"
+    style="@style/ActionBarItem_low_two"
+    android:background="@drawable/actionbar_btn_two"
+    android:layout_centerVertical="true"
+    android:singleLine="true"
+    android:visibility="visible"
+    />

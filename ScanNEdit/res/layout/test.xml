@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--adjust the list view area on the menu screen-->
+<com.me.test.MainActivity 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.me.android.scanNedit"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    app:menuSize="255dp" />

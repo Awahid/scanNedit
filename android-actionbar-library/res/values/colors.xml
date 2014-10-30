@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2010 Johan Nilsson <http://markupartist.com>
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="actionbar_separator">#007dbd</color>
+    <color name="actionbar_separator_two">#3e85c7</color>
+    <color name="actionbar_separator_three">#3e85c7</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#223950</color>
+    <color name="actionbar_background_end">#223950</color>
+    <color name="actionbar_background_start_two">#3e85c7</color>
+    <color name="actionbar_background_end_two">#3e85c7</color>
+    <color name="actionbar_background_start_three">#0c5393</color>
+    <color name="actionbar_background_end_three">#3e85c7</color>
+    <color name="actionbar_background_start_four">#0a1118</color>
+    <color name="actionbar_background_end_four">#0a1118</color>
+    <color name="actionbar_background_item_pressed_start">#134e5c</color>
+    <color name="actionbar_background_item_pressed_end">#134e5c</color>
+    <color name="actionbar_background_item_pressed_start_two">#0c5393</color>
+    <color name="actionbar_background_item_pressed_end_two">#0c5393</color>
+    <color name="actionbar_background_item_pressed_start_three">#3e85c7</color>
+    <color name="actionbar_background_item_pressed_end_three">#3e85c7</color>
+    <color name="actionbar_background_item_four">#0a1118</color>
+    
+</resources>

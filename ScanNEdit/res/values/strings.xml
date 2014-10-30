@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Scan nd Edit Activity!</string>
+    <string name="app_name">scanNedit</string>
+    <string name="some_title">Other</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="scanning">Scanning</string>
+    <string name="title_activity_start">StartActivity</string>
+
+</resources>

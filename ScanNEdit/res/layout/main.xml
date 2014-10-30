@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.deaux.fansample"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/first_background"
+    android:clickable="true"
+    android:focusable="true"
+    android:onClick="click"
+    android:orientation="vertical" >
+
+    <com.markupartist.android.widget.ActionBar_three
+        android:id="@+id/actionbar3"
+        style="@style/ActionBar_high_two"
+        >
+    </com.markupartist.android.widget.ActionBar_three>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="348dp"
+        android:divider="@color/actionbar_background_second"
+        android:dividerHeight="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1.38"
+        android:listSelector="@drawable/list_selector" >
+    </ListView>
+
+    <com.markupartist.android.widget.ActionBar_two
+        android:id="@+id/actionbar4"
+        style="@style/ActionBar_low_two"        
+        >
+    </com.markupartist.android.widget.ActionBar_two>
+
+</LinearLayout>
